@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a quack-astrologer, or, The spurious prognosticator anatomiz'd</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61070</idno>
+            <idno type="STC">Wing S49</idno>
+            <idno type="STC">ESTC R1619</idno>
+            <idno type="EEBO-CITATION">08215443</idno>
+            <idno type="OCLC">ocm 08215443</idno>
+            <idno type="VID">41102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1239:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a quack-astrologer, or, The spurious prognosticator anatomiz'd</title>
+                  <author>J. S.</author>
+                  <author>Ramesey, William, 1627-1675 or 6.</author>
+               </titleStmt>
+               <extent>[21] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Wing enters the title under J.S.</note>
+                  <note>Attributed to William Ramesay--Cf. Greenbough, A bibliography of the Theophrastan character, 1947, p. 105.</note>
+                  <note>"The spurious prognosticator" is John Gadbury--Cf. British Museum catalogue.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gadbury, John, 1627-1704.</term>
+               <term>Astrologers --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb facs="tcp:41102:1" rendition="simple:additions"/>
+            <pb facs="tcp:41102:2"/>
+            <pb n="3" facs="tcp:41102:2"/>
+            <pb facs="tcp:41102:3"/>
+            <pb facs="tcp:41102:3"/>
+            <head>THE CHARACTER OF A Quack-Aſtrologer: OR, <hi>The ſpurious Prognoſticator Anatomiz'd.</hi>
+            </head>
+            <p>A Quack Aſtrologer is a <hi>Gypſy</hi> of the upper Form, a <hi>Wizard</hi> unfledg'd, Doctor <hi>Fauſtus</hi> in ſwadling Clouts; the fag end of a <hi>South-ſayer,</hi> or the Cub of a <hi>Conjurer</hi> not lick'd into perfection; one that hath heard o'th' <hi>Black Art,</hi> and his fingers <hi>Itch</hi> to be dabling in't, but want<g ref="char:EOLhyphen"/>ing <hi>Courage</hi> to meet the Divel at a perſo<g ref="char:EOLhyphen"/>nal Treaty, chuſes to deal with him obliquely, by way of a <hi>cheat,</hi> rather than by the direct Negotiation of a <hi>Familiar:</hi>
+               <pb facs="tcp:41102:4"/>A three-penny <hi>Prophet,</hi> that undertakes the telling other folks <hi>Fortunes,</hi> meerly to ſupply the pinching neceſſities of his <hi>own;</hi> whoſe ſtock of Learning lyes all in <hi>Reverſion,</hi> and his knowledge only of <hi>Fu<g ref="char:EOLhyphen"/>turity,</hi> for he underſtands neither things <hi>paſt</hi> nor <hi>preſent,</hi> yet (as <hi>Owls</hi> ſee beſt i'th' <hi>dark</hi>) kens to an Hairs-breath thoſe <hi>to come.</hi> He boaſts himſelf <hi>Heavens Secretary,</hi> the Stars <hi>Privy Councellor,</hi> perſwades you that he can <hi>jilt</hi> the book of Fate, and <hi>pick-lock</hi> the ſecrets of the Deſtinies, but is in truth a paltry <hi>Hocus,</hi> whoſe <hi>Jug<g ref="char:EOLhyphen"/>ling box</hi> is a <hi>Scheme, Planets houſes, and Aſpects</hi> his ſeveral <hi>Properties,</hi> and his whole <hi>Art</hi> but a well contriv'd <hi>Faculty</hi> or <hi>Legerde<g ref="char:EOLhyphen"/>main</hi> to buble inquiſitive and credulous <hi>Fools</hi> of their <hi>Money.</hi> He differs from an honeſt, able <hi>Artiſt,</hi> as a <hi>Licentiate</hi> from a <hi>Doctor.</hi> His natural <hi>impudence,</hi> and a ſtolen <hi>Ephemeris</hi> ſet him up, and he begins at once to be a <hi>Student</hi> and a <hi>Profeſsor;</hi> one
+<pb facs="tcp:41102:4"/>night ſprouts forth this <hi>Mushroom</hi> of Science ſo high, from its native dung<g ref="char:EOLhyphen"/>hil, that forthwith,
+<q>Sublimi ferit ſidera vertice.</q>
+            </p>
+            <p>For by <hi>bungling</hi> in the worſt part o'th' <hi>Mathematicks,</hi> from <hi>ſaucy Jack</hi> in an in<g ref="char:EOLhyphen"/>ſtant he commences <hi>Maſter Doctor;</hi> no ſooner has he learn'd the Myſtery to <hi>ſet a figure,</hi> but he fancies himſelf, a whole Sphear above <hi>Tycho Brahe,</hi> or <hi>Fryar Ba<g ref="char:EOLhyphen"/>con;</hi> and is more proud of the knack of finding out <hi>part of Fortune,</hi> than <hi>Columbus</hi> of diſcovering the new <hi>golden world,</hi> or our Modern Navigators the <hi>North<g ref="char:EOLhyphen"/>erne Indies;</hi> thence-forwards his cloven Tongue is tipt with <hi>Prophecy,</hi> he never opens his mouth, but tis <hi>Bearded</hi> with a Planet; let the diſcourſe be what it will, he ſtill ſpeakes <hi>Aſtrology,</hi> and magnifies <hi>
+                  <g ref="char:V">Ʋ</g>rania,</hi> though she may be (for ought he knows to the contrary) a <hi>footer of ſtockings.</hi> Ask him what 'tis a <hi>clock,</hi> he anſwers,
+<pb facs="tcp:41102:5"/>Sol wants three degrees of the <hi>Cuſp of the mid-heaven.</hi> Inquire what news from the <hi>Rhyne,</hi> and he'l tell you of <hi>Jupiter</hi> and <hi>Saturn</hi> at daggers drawing in the fiery <hi>Trigon,</hi> that the <hi>Dragons tail</hi> has ſtung the <hi>Dog-ſtar,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rſa major</hi> the blind Bear to be whipt by <hi>Gemini,</hi> about the Antar<g ref="char:EOLhyphen"/>tick Pole. Some ſay, he took his firſt be<g ref="char:EOLhyphen"/>ing from a cunning Woman, and ſtole this black Art from her, whilſt he made her Sea-coal fires, but he boaſts 'tis all acquir'd by his <hi>own</hi> induſtry, and if ſo, you may ſwear no man ever more veri<g ref="char:EOLhyphen"/>fied the Proverb, <hi>He that teaches himſelf, has a Fool for his Maſter:</hi> the truth is, if any able <hi>Proficient</hi> out of a generous charity, diſcover to him the firſt Ele<g ref="char:EOLhyphen"/>ments of Art, his <hi>gratitude</hi> (like <hi>Ariſtotles</hi> to <hi>Plato,</hi>) is to abuſe his <hi>Instructor,</hi> with opprobrious epithets of black-mouth'd detraction, and convince the World by railing, that his skill in Star-craft is
+<pb facs="tcp:41102:5"/>taller than his <hi>Tutors,</hi> by <hi>ſix Cubits and a Span</hi> He impudently cites <hi>Ptolomy</hi> and <hi>Cardan,</hi> and makes <hi>Haly</hi> and <hi>Abuma<g ref="char:EOLhyphen"/>zar</hi> his common vouchers, yet ſcarce underſtands <hi>the Book of knowledg;</hi> and his Library for ſeven years is <hi>the Introduction,</hi> and <hi>Erra pater.</hi> You might know him by his thred-bare <hi>Blew-gown,</hi> that ſerved two <hi>apprenticeships</hi> to his back, and was worn without mercy in the hotteſt of the Dog-dayes. You may learn Aſtrology without inſtruction, by the character of his face, on which 'tis as hard to find the <hi>Image of God,</hi> as to diſcover the true Effigies of a Saint by his weather<g ref="char:EOLhyphen"/>beaten Statue: for the wrinkles on his Necromantick brow repreſent the 12 ſigns, &amp; all the <hi>Monſters</hi> on the celeſtial <hi>Globe</hi> are drawn to the life in his counte<g ref="char:EOLhyphen"/>nance. His prime task is to <hi>Con hard words,</hi> with which he ſtartles his trembling <hi>Querents,</hi> who take them for names of
+<pb facs="tcp:41102:6"/>his confederate <hi>Daemons. Aſmodeus</hi> and <hi>Mefauſtophilus</hi> are not half ſo terrible: they are too boyſterous for <hi>Proſe;</hi> but there are Charms in <hi>Verſe,</hi> we will therefore shackle them in <hi>Meeter,</hi> where they run like the <hi>hobling rhymes</hi> on the top of an Almanack.</p>
+            <q>
+               <l>Anababizon, Dodecatemory,</l>
+               <l>Hermetick, Trutine, Combuſt, Cazimi,</l>
+               <l>Horoſcope, Animodar, Smoaky denn,</l>
+               <l>Caput Algol, Hylec, dreadful Almuten,</l>
+               <l>Alcocodonean, Apheta, Anomaly,</l>
+               <l>Retrogradation, Orientality,</l>
+               <l>Apogaeon, Zenith, Nadir, Coſmical,</l>
+               <l>Acronick, Azimuth, Helio-centrical,</l>
+               <l>Sextile, Trine, Quadrate, and oppos'd Aſpect,</l>
+               <l>Excentrick, Epicycle, Polar, Epact,</l>
+               <l>Grim Trigons, Radix Genethliacal</l>
+               <l>Refraination, Schemes Profectional,</l>
+               <l>Direction, Anareta, Tranſition,</l>
+               <l>Micros-contaratos, and Cauda's poſition.</l>
+            </q>
+            <p>But to proceed more methodically,
+<pb facs="tcp:41102:6"/>'tis requiſite according to <hi>rules of art,</hi> we conſider the <hi>radix</hi> of our prodigious Subject.</p>
+            <p>He was begot (like <hi>Merlin</hi>) by an <hi>Incubus</hi> on a <hi>Lapland Witch</hi> (whence he can eaſier <hi>reſolve</hi> any queſtion than who was his proper <hi>Father:</hi>) The eldeſt of the <hi>Si<g ref="char:EOLhyphen"/>byls</hi> plaid the Midwife to this Moon-Calf, and <hi>Dame Shipton</hi> his drie Nurſe fed him with <hi>May-dew,</hi> &amp; <hi>Pap of Triſme<g ref="char:EOLhyphen"/>giſtus,</hi> rock'd him to ſleep with <hi>a whirl<g ref="char:EOLhyphen"/>wind, lullabi'd</hi> him with the ſtill Muſick of the <hi>Sphears,</hi> and wrapt him up in the <hi>Zodiack</hi> for want of <hi>ſwadling clouts.</hi> Himſelf is moſt fit to <hi>Calculate</hi> his own Nativity; but if <hi>Scorpio</hi> be not ſlander'd when 'tis in<g ref="char:EOLhyphen"/>tituled <hi>ſignum falſitatis,</hi> (a ſign of a treach<g ref="char:EOLhyphen"/>erous Nature) 'tis doubtleſs his true <hi>aſ<g ref="char:EOLhyphen"/>cendent.</hi> Some fancy the <hi>Egyptians</hi> &amp; <hi>Caldeans,</hi> (thoſe <hi>Bel-weathers</hi> of ſuperſtition) were mainly invited to <hi>ſydereal ſtudies</hi> by the plain and <hi>champaign</hi> ſcituation of their
+<pb facs="tcp:41102:7"/>Countries. Who knows but his lofty education might firſt ſet out <hi>Aſtrologaze<g ref="char:EOLhyphen"/>ſtar</hi> a gog, who ſitting many years on his <hi>Throne</hi> like an <hi>Eaſtern Monarch,</hi> (for, ſpight of his <hi>Doctor ship,</hi> he is origi<g ref="char:EOLhyphen"/>nally a Knight of the <hi>croſs-leg'd order,</hi>) in a Garret four ſtories high, had the better opportunity to contemplate the <hi>coeleſti<g ref="char:EOLhyphen"/>al bodies,</hi> and ſearch out the meaning of their reſpective <hi>twinklings?</hi> He affirms the <hi>Patriarchs</hi> were all as great Aſtrolo<g ref="char:EOLhyphen"/>gers as <hi>Alphonſus,</hi> or the <hi>three Kings of Co<g ref="char:EOLhyphen"/>len,</hi> and would gladly at any time <hi>ex<g ref="char:EOLhyphen"/>change</hi> the <hi>two tables</hi> of Gods commande<g ref="char:EOLhyphen"/>ments, for <hi>Enochs pillars.</hi> He loves <hi>Job</hi> the better for the <hi>ſweet influences of the Pleiades,</hi> and offers to make <hi>affidavit,</hi> that <hi>Jacobs Ladder</hi> was only a <hi>Jacobs ſtaff.</hi> To ſee him perpetually poring on <hi>Heaven,</hi> makes me wonder, a man should buſiehimſelf ſo much about a place he is never like to <hi>come to:</hi> you would think his eyes
+<pb facs="tcp:41102:7"/>were nail'd to the Stars, for he is al<g ref="char:EOLhyphen"/>wayes <hi>looking upwards,</hi> yet dares believe nothing above <hi>primum mobile,</hi> becauſe 'tis beyond the reach of his <hi>Aſtrolabe.</hi> He is a punctual <hi>time-ſerver,</hi> even to a <hi>minute,</hi> and when he is moſt buſily imploy'd <hi>without Queſtion</hi> does nothing. His groundleſs <hi>Gueſſes</hi> he calls <hi>Reſolves,</hi> and compels the Stars (like <hi>Knights o'th' Poſt,</hi>) to depoſe things they know no more than the Man i'th' Moon; as if Heaven were acceſſary to all the cheating tricks Hell inſpires him with.</p>
+            <p>He begins with <hi>theft;</hi> and to help people to what they have loſt, <hi>picks their pockets afresh;</hi> not a ring or ſpoon is nim'd away, but payes him <hi>twelve pence toll,</hi> and the Ale-drapers often ſtraying <hi>tankerd</hi> yields him a conſtant revenue: for that purpoſe he maintains as ſtrict a corre<g ref="char:EOLhyphen"/>ſpondence with <hi>Gilts</hi> and <hi>Lifters,</hi> as a Mountebank with applauding <hi>Mid<g ref="char:EOLhyphen"/>wives</hi>
+               <pb facs="tcp:41102:8"/>and recommending <hi>Nurſes:</hi> and if at any time, to keep up his cre<g ref="char:EOLhyphen"/>dit with the Rabble, he <hi>diſcovers</hi> any thing, 'tis done by the ſame occult <hi>Her<g ref="char:EOLhyphen"/>metick learning,</hi> heretofore profeſt by the renowned <hi>Mall-Cutpurſe.</hi>
+            </p>
+            <p>At other times there's nothing more pleaſant than his <hi>shufling</hi> evaſions; firſt, he gravely inquires the <hi>buſineſs,</hi> and by ſubtile queſtions <hi>pumps</hi> out certain par<g ref="char:EOLhyphen"/>ticulars which he treaſures up in his memory; next, he conſults his old ruſty <hi>Clock,</hi> which has got a trick of <hi>Lying,</hi> as faſt as its Maſter, and amuſes you for a quarter of an hour, with ſcrawling out the <hi>All-revealing figure,</hi> and placing the Planets in their reſpective <hi>Pues;</hi> all which being diſpatch'd, you muſt lay down your <hi>money</hi> on his book, as you do the <hi>Wedding fees</hi> to the <hi>Parſon</hi> at the delivery of the Ring; for 'tis a fundamental <hi>Axiome</hi> in his art, That
+<pb facs="tcp:41102:8"/>without <hi>croſsing his hand with Silver</hi> no <hi>Scheme</hi> can be <hi>radical:</hi> then he begins to tell you back your <hi>own Tale</hi> in other language, and you take that for <hi>divinati<g ref="char:EOLhyphen"/>on,</hi> which is but <hi>repetition;</hi> he neither knowes nor regards the <hi>rules</hi> of the An<g ref="char:EOLhyphen"/>cients, nor the <hi>true poſition</hi> of the heavens, but follows his <hi>Fancy,</hi> and ſayes what he thinks will pleaſe moſt; to colour which he abuſes an honeſt Aphoriſme, <hi>A te &amp; Scientiâ.</hi> The old Shepherd that got the repute of being weather-wiſe, by telling one man it would <hi>rain</hi> ſuch a day, and another, that it would be <hi>fair,</hi> learn'd that trick of this <hi>Hiccius Doctius,</hi> who to hit the <hi>white</hi> shoots <hi>oppoſite</hi> wayes, and predicts <hi>contrarieties</hi> of the ſame mat<g ref="char:EOLhyphen"/>ter; thus he tells you,</p>
+            <p>The Lord of the <hi>ſecond</hi> ſeparating from <hi>Saturm, Mercury</hi> Peregrine, with<g ref="char:EOLhyphen"/>out shooe or ſtocking, beholding the man, and the ſignificator of the <hi>thief,</hi>
+               <pb facs="tcp:41102:9"/>in ſquare to the aſcendent, <hi>infallibly</hi> shew your things are <hi>ſtoln;</hi> but the Moon in the ſeventh houſe, and the Lord of the Horoſcope being Lord of the hour, tell him, they are <hi>only mislaid, or ſtrayed a<g ref="char:EOLhyphen"/>way,</hi> and therefore you were beſt look carefully for them. Then he asks, if you have never a ſuſpicious perſon that much frequents your houſe? you pre<g ref="char:EOLhyphen"/>ſently think of ſome body, and your anſwer diſcovering the Sex, he won<g ref="char:EOLhyphen"/>derfully tells you whether it be man or woman. For a deſcription, he ſayes, he muſt mix the Teſtimonies of the Signi<g ref="char:EOLhyphen"/>ficators, which he blends ſo accurately, that your fancy may apply it to any that you pleaſe to miſtruſt. As to the grand Quere, Shall the moveables be recovered? he anſwers, after a ſerious shake of his empty noddle, that al<g ref="char:EOLhyphen"/>though an Infortune retrogade in the eighth, and the Sun many fathom under
+<pb facs="tcp:41102:9"/>earth, have no mind to reſtore them till latter <hi>Lammas,</hi> yet the diſpoſitor of the Moon in partile Trine to the Aſcen<g ref="char:EOLhyphen"/>dent, (being his ſpecial friend) has en<g ref="char:EOLhyphen"/>gaged on his honour you shall have them again by Tueſday come ſeaven<g ref="char:EOLhyphen"/>night; and that <hi>Mercury</hi> that notori<g ref="char:EOLhyphen"/>ous pilferer, being in Northern ſign, and Weſternly quarter, in the South<g ref="char:EOLhyphen"/>ern-angle of the Oriental Triplicity, plainly shews they are convey'd <hi>North</hi> and by <hi>South,</hi> whereupon he ſends you on a fruitleſs Pilgrimage to <hi>Long-lane, Pepper-Alley,</hi> or <hi>Cow-croſs,</hi> yet would have you to know, he could fetch them back in an inſtant through the Air, only he fears deſtroying his Majeſties Fleet, and ſpoyling <hi>Sherwood-forreſt</hi> by the vio<g ref="char:EOLhyphen"/>lence of the tempeſt, and would shew you the phantaſme of the thief, but that he knows you will be frighted out of your wits, to ſee a worſe Divel than himſelf. However he asks how and in
+<pb facs="tcp:41102:10"/>what part you pleaſe to have the rogue tormented; and to prevent the like da<g ref="char:EOLhyphen"/>mage hereafter, offers for five pieces to give you home with you a Taliſman againſt flies, a Sigil to make you fortu<g ref="char:EOLhyphen"/>nate at Gaming, and a Spell that shall as certainly preſerve you from being rob'd for the future, a ſympathe<g ref="char:EOLhyphen"/>tical powder from the violent pains o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the tooth-ach. This is his greener pra<g ref="char:EOLhyphen"/>ctice, till being arriv'd by the ſucceſs o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his villanies to a plush Jacket, he grows too ſqueamish to intermeddle with theſe beggarly Elements, ſtoln Bod<g ref="char:EOLhyphen"/>kins, or she-aſſes gone aſtray. For the women hearing of his Fame, throng after in droves, and a Fleet of Coaches rides every morning at his door. The young Gallant bribes him with a Guin<g ref="char:EOLhyphen"/>ny, to know when his miſerable Fa<g ref="char:EOLhyphen"/>ther will have the civility to go to Hea<g ref="char:EOLhyphen"/>ven; and is ſo pious as to double it, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Art he can expedite his journy. The
+<pb facs="tcp:41102:10"/>Chamber-maid lately cured of the Green-ſickneſs, by lying in the trucle-bed, comes to know whether the But<g ref="char:EOLhyphen"/>ler will accept of his Maſters caſt Suit for a Livery. And the old tooth<g ref="char:EOLhyphen"/>leſs Lady muſt needs be reſolv'd con<g ref="char:EOLhyphen"/>cerning a ſeventh Husband. All theſe he diſpences Oracles too, with a confi<g ref="char:EOLhyphen"/>dence equal'd by nothing but his igno<g ref="char:EOLhyphen"/>rance; for if any preſume to ſcruple his judgment, he flies into a pasſion, and (as the Poet juſtified his Play) ſeals with an oath, the truth of his predicti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>The beſt uſe can be made of him, is as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> helper forward in an amorous intri<g ref="char:EOLhyphen"/>gue; at which he is exceeding dexte<g ref="char:EOLhyphen"/>rous, and ſo good Natur'd, that he will not refuſe to pimp for a bountiful que<g ref="char:EOLhyphen"/>rent. He trappans a young Heireſs to run away with a Foot-man, by per<g ref="char:EOLhyphen"/>ſwading a young girl 'tis her deſtiny; and ſells the old and ugly Philtreſs and
+<pb facs="tcp:41102:11"/>love-powder, to procure them Sweet harts. He finds the minute, the preciſe one minute that no woman can hold out in, and when a man may venture on the ſweetſin, even in the Park, and defie the Chirurgeon. He elects a fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time for adulterous meetings, and di<g ref="char:EOLhyphen"/>rects them whether <hi>North</hi> or <hi>Weſt, Bar<g ref="char:EOLhyphen"/>net</hi> or <hi>Batterſea</hi> will be leaſt obnoxious to diſcovery; yet cannot all his skill con<g ref="char:EOLhyphen"/>ceal his own debaucheries: for the ma<g ref="char:EOLhyphen"/>licious Planets, (in pure revenge 'cauſe he blabs abroad, ſo many of their ſecrets,) will not ſuffer him to keep wench in private, or oblige the Pa<g ref="char:EOLhyphen"/>rish with an Aſtrological By-blow in hand-basket, but they'l tell all to the babling World, which laughs to be hold the celeſtial Scout-maſter, expo<g ref="char:EOLhyphen"/>ſed to the correction of the Seſſions and infamy of a penitential sheet.</p>
+            <p>His mighty ambition is to write an Almanack, which he doubts not but will make him more famous, than ei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:41102:11"/>
+               <hi>Copernicus</hi> or <hi>Kepler,</hi> though it only unlock the Terms, point out high<g ref="char:EOLhyphen"/>wayes, and direct Mountebanks and Sow-gelders the proper ſeaſon of the year to kill or torture in. The frontiſ<g ref="char:EOLhyphen"/>peice (if he can go to the charge,) shall be garnish'd with a gaudy picture, which he bribes the engraver to make not like but handſome; this ſets off the pamphlet in a Country fair, as a horſe ſells the better for the ribbon, wherewith Jockey tyes up his tayl. He would willingly (like the grand Sig<g ref="char:EOLhyphen"/>nior) ſtrangle all his Brethren, and cries out againſt his fellow ignorants, as publick whores againſt private for ſpoiling the trade. He takes a world of pains to vindicate himſelf from certain magical feats, which no wiſe man ever beleiv'd, he or any body elſe could per<g ref="char:EOLhyphen"/>form: and is ſo paſſionate in denying that ridiculous charge, as if he intend<g ref="char:EOLhyphen"/>ed you should ſtill ſupect him guilty.
+<pb facs="tcp:41102:12"/>The firſt leaf demonſtrates <hi>Ptolomy</hi> to be as infallible as <hi>Euclid,</hi> and in ſix lines confutes all the learned volumes of <hi>Mirandula</hi> and <hi>Gaſſendus.</hi> His Calender muſters up more Saints than the world now a dayes yields good Chriſtans, and each moneth is fac'd with ſuch heroick verſe, as ſcorns to be confin'd to the dull pedantries of meaſure and ſence. He writes of the weather hab nab, and as the toy takes him, chequers the year with foul &amp; fair. The novice ſtar-read<g ref="char:EOLhyphen"/>er peruſes it with as much reverence as a Jew, the Pentateuch; but the Coun<g ref="char:EOLhyphen"/>try man makes bold with it for a regiſ<g ref="char:EOLhyphen"/>try, wherein he files his moſt important memoires; when his Mare took Horſe, Puſs kitled, or Goreback went to Bull. In the rear of the fardle ſtands that gaſt<g ref="char:EOLhyphen"/>ly Goblin the Anatomy, under which we have notice of ſome univerſal Pill, or wondrous cures the Author can per<g ref="char:EOLhyphen"/>forme. For you muſt know, a cunning<g ref="char:EOLhyphen"/>man
+<pb facs="tcp:41102:12"/>is an infallible introduction to an Emperick, &amp; (as ſome Rats are both for land and water,) his judgment at the Scheme and the Urinal is equally ex<g ref="char:EOLhyphen"/>cellent. If the phyſick of the dog-leech turn not your ſtomach, lets jog on to the Prog, and now, Readers! <hi>Linguis ani<g ref="char:EOLhyphen"/>miſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> favete,</hi> with reverend ſilence attend the oracle, who comes to cut out the fate of the year, &amp; allot each Kingdome and State its deſtiny. The Text is <hi>Sol</hi> in <hi>Aries,</hi> which he can either make as terrible as Curſe the <hi>Meroz</hi> of old, and mould into marmalad and ſugar plumbs at his plea<g ref="char:EOLhyphen"/>ſure. Sometimes he threatens <hi>Poland;</hi> by and by falls upon the <hi>Sweed,</hi> (like a rene<g ref="char:EOLhyphen"/>gado from chriſtianity,) brings the <hi>Turk</hi> into <hi>Hungary,</hi> ſtrikes the <hi>Pope</hi> into a <hi>Feaver,</hi> frights the <hi>Empreſs,</hi> and makes her miſ<g ref="char:EOLhyphen"/>carry, muſters up the rebellious <hi>Coſſacks</hi> and ſets <hi>Preſter John,</hi> &amp; the <hi>Crim Tartar</hi> to<g ref="char:EOLhyphen"/>gether by the ears.</p>
+            <p>All this miſchief he performes by the myſterious art of canting, and the help
+<pb facs="tcp:41102:13" rendition="simple:additions"/>of his louſy rhetorick, that cheats people into an opinion of his abilities; having purloyned ſome ſhreds of Latine, he lards there with his dry diſcourſes, and Greek comes to him (as other Brutes have their knowledg) by inſtinct, for he writes it before he can diſtinguiſh one letter of the Alphabet. He antedates ef<g ref="char:EOLhyphen"/>fects to their cauſes, and maintains each herb and flower receives its virtue from the Planets, whereas thoſe were growing before theſe were created. He impairs Gods univerſal monarchy, by making the Stars ſole keepers of the liberties of the ſublumina<g ref="char:EOLhyphen"/>ry world, &amp; not content they ſhould domineer over naturals, will needs promote their tyranny in things artificial too, aſſerting, that all manufactures receive good or ill fortunes and qualities from ſome particular radix, and therefore elects a time for ſtu<g ref="char:EOLhyphen"/>ing of Pruins, and chuſes a piſpot by its horoſcope. Nothing puſles him more than fatal neceſſity: he is loth to deny it, yet dares not juſtify it, and therefore prudently baniſhes it his theo<g ref="char:EOLhyphen"/>ry, but hugs it in his practice, yet knows not how to avoid the horns of that excellent <hi>Dilemma,</hi> propounded by a moſt ingeni<g ref="char:EOLhyphen"/>ous Modern Poet.</p>
+            <q>
+               <l>If Fate be not, how ſhall we ought fore-ſee,</l>
+               <l>Or how ſhall we avoid it, if it be?</l>
+               <l>If by free-will in our own paths we move,</l>
+               <l>How are we bounded by decrees above?</l>
+            </q>
+            <p>To conclude; his certainty in declaring future events, is like the predictions made to <hi>Caeſar, Craſſus</hi> and <hi>Pompey,</hi> or that of <hi>Bar<g ref="char:EOLhyphen"/>dugy</hi> to the thrice noble Captain, who all, notwithſtanding the promiſes of ſuch blandiſhing Hypocrites of Long-life and pro<g ref="char:EOLhyphen"/>ſperity, fell by the ſtroaks of a violent and untimely fate. To a<g ref="char:EOLhyphen"/>void the ſcandal whereof, he commonly ſtudies ambiguous expre<g ref="char:EOLhyphen"/>ſſions applicable to every time, Prince and Nation. And when any extraordinary accident happens, glories that he foretold it, and fortifies his old Prognoſtications with new reaſons; or if he be convict of falshood, excuſes it with blaſphemy, or at leaſt, cloakes onelye with another, ſaying, the wiſe man rules the ſtars, whereas in truth (as the learned <hi>Agrippa</hi> long ſince obſerv'd) nei<g ref="char:EOLhyphen"/>ther the Stars rule the wiſemen, nor the wiſemen the ſtars, but God over-rules them both.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
